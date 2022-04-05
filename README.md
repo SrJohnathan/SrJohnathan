@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Antonio Johnathan
 
+<!--
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+</a> -->
 
 <br />
 <br />
