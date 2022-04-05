@@ -32,16 +32,21 @@ Here are some ideas to get you started:
 Hi, I'm Antonio Johnathan, a passionate front-end and back-end developer, self-taught from Brazil
 
 - 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/SrJohnathan/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 **Languages and Tools:**  
+
+
+<code><img  height="20"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /></code>
+<code><img  height="20"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" /></code>
+<code><img  height="20"  src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" /></code>
+<code><img  height="20"  src="https://img.icons8.com/color/48/000000/kotlin.png" /></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>-->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <!--- 
@@ -51,11 +56,8 @@ Hi, I'm Antonio Johnathan, a passionate front-end and back-end developer, self-t
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrJohnathan&show_icons=true&theme=merko)](https://github.com/SrJohnathan/github-readme-stats)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrJohnathan&show_icons=true&theme=material-palenight)](https://github.com/SrJohnathan/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrJohnathan&show_icons=true&theme=material-palenight)](https://github.com/SrJohnathan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrJohnathan&show_icons=true&theme=merko)](https://github.com/SrJohnathan/github-readme-stats)
 
 
