@@ -33,7 +33,7 @@ Hi, I'm Antonio Johnathan, a passionate front-end and back-end developer, self-t
 
 - 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
 - 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/SrJohnathan//github-readme-stats)
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/SrJohnathan/github-readme-stats)
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 **Languages and Tools:**  
