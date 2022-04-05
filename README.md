@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 </a> -->
 
 <br />
-<br />
 
 Hi, I'm Antonio Johnathan, a passionate front-end and back-end developer, self-taught from Brazil
 
