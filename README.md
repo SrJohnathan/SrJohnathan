@@ -72,5 +72,5 @@ Hi, I'm Antonio Johnathan, a passionate front-end and back-end developer, self-t
 </a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrJohnathan)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrJohnathan&theme=material-palenight)](https://github.com/SrJohnathan/github-readme-stats)
 
