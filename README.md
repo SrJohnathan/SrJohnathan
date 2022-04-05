@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 Hi, I'm Antonio Johnathan, a passionate front-end and back-end developer, self-taught from Brazil
 
-- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
+- 🔭 I’m currently working on bots for whatsapp
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/SrJohnathan/github-readme-stats)
+- 👯 I’m looking to collaborate on open source projects
 
 **Languages and Tools:**  
 
